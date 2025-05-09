@@ -1,6 +1,7 @@
 # Reconhecimento de Sinais  em Tempo Real
 
-![GIF de exemplo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc3Nm10NWlqdmp3eW0wbHpwc2x3cnduYjZjb2ZxYnMzdnF4MmxlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
+![IMG](IMGS/PIC.png)
+
 
 **Traduza gestos da Língua Brasileira de Sinais (Libras) em texto em tempo real usando sua webcam!** Este projeto utiliza visão computacional e aprendizado profundo para construir um sistema interativo de reconhecimento de sinais.
 
