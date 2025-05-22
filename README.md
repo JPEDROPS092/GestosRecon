@@ -3,7 +3,7 @@
 ![IMG](IMGS/PIC.png)
 
 
-**Traduza gestos da Língua Brasileira de Sinais (Libras) em texto em tempo real usando sua webcam!** Este projeto utiliza visão computacional e aprendizado profundo para construir um sistema interativo de reconhecimento de sinais.
+**Traduza gestos  em texto em tempo real usando sua webcam!** Este projeto utiliza visão computacional e aprendizado profundo para construir um sistema interativo de reconhecimento de sinais.
 
 ---
 
