@@ -91,7 +91,7 @@ TrainingDet/
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/jpedrops092/TrainingDet.git
+   git clone https://github.com/JPEDROPS092/GestosRecon
    cd TrainingDet
    ```
 
